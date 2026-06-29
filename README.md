@@ -37,3 +37,9 @@ Live data → https://thingspeak.com/channels/3418062
 2. Install required libraries
 3. Add your WiFi credentials and ThingSpeak API key
 4. Upload code to ESP32
+
+## 📸 Project Setup
+
+
+
+![Circuit Setup](model.jpeg)
